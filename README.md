@@ -1,3 +1,3 @@
 # parallel_agorithms
 
-Hometasks for "Parallel algorithms" Univirsity course: implemented parallel calculations in C++.
+Hometasks for "Parallel algorithms" University course: implemented parallel calculations in C++.
